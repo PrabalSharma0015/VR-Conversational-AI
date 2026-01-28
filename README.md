@@ -39,6 +39,3 @@ The AI character is integrated into the VR scene and responds dynamically based 
 - **Platform:** VR-enabled headsets (PC-VR / standalone VR)  
 
 ---
-
-## 🧩 Project Structure
-
